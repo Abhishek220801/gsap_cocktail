@@ -28,7 +28,7 @@ const Hero = () => {
             opacity: 0,
             duration: 1.8,
             ease: 'expo.out',
-            stager: 0.06,
+            stagger: 0.06,
             delay: 1,
         })
 
