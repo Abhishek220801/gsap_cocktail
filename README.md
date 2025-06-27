@@ -6,7 +6,7 @@ Recreated a stunning **Awwwards-winning website** using **React**, **GSAP**, and
 
 ## 📸 Demo
 
-🎥 **Video Walkthrough**: [Watch Demo on Loom]([https://loom.com/share/your-demo-link](https://www.loom.com/share/f301285d56b94ce1ade463e2c945bb18?sid=e6fffd67-fab6-455c-a4e6-3e000addfeb2))
+🎥 **Video Walkthrough**: [Watch Demo on Loom](https://www.loom.com/share/f301285d56b94ce1ade463e2c945bb18?sid=e6fffd67-fab6-455c-a4e6-3e000addfeb2)
 
 🌐 **Live Site**: [Explore the Site](https://gsap-cocktail-beige.vercel.app/)
 
